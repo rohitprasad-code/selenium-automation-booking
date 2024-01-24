@@ -14,5 +14,5 @@ This project is a test automation framework for [Booking](https://www.booking.co
 ## Usage
 The test is located in the `src/Frugal/Test.java` file. This test case searches for the train tickets from Delhi to Lucknow on the 20st of May 2024.
 
-<!-- in github the video is on example/recording.mp4 -->
-![Recording](https://github.com/rohitprasad-code/selenium-automation-booking/blob/5938e10d50151dded2a3724af5852cac41673532/example/recording.mp4)
+https://github.com/rohitprasad-code/selenium-automation-booking/assets/73442980/44e9ba4b-aa39-488c-b435-37b996b875e1
+
